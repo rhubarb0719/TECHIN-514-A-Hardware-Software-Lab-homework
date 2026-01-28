@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"name": "Bluetooth Connection",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
