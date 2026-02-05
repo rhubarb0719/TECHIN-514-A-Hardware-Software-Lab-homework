@@ -20,9 +20,9 @@ RTC_DATA_ATTR int wakeCount = 0;
 
 // ------------------------- WiFi/Firebase -------------------------
 const char* ssid = "UW MPSK";
-const char* wifi_password = "9Wvk7TMigsjVESWU";
-const char* firebase_db_url = "https://lab5-6d6de-default-rtdb.firebaseio.com";
-UserAuth user_auth("AIzaSyD2BMaQc5XNessW-FCuf562Vh_-FLB6CF4", "rhubarb.wong@gmail.com", "@Chee0719");
+const char* wifi_password = "YOUR_FIREBASE_API_KEY";
+const char* firebase_db_url = "*";
+UserAuth user_auth("*");
 
 FirebaseApp app;
 WiFiClientSecure ssl_client1;
